@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/web-types",
+  "framework": "vue",
+  "name": "webstorm-vue-web-types-bug",
+  "version": "1.0.0",
+  "contributions": {
+    "html": {
+      "types-syntax": "typescript",
+      "tags": [
+        {
+          "name": "Test2",
+          "source": {
+            "module": "./Test2.vue",
+            "symbol": "default"
+          }
+        }
+      ]
+    }
+  }
+}
